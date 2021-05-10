@@ -3,3 +3,4 @@ C++ codes on composite mechanics. Please reference if used.
 #laminate_ABDH.cpp - Macroscale laminate property from LSS and lamina properties
 #stiffness.m - MATLAB code to convert E1,E2,... to EX, EY...
 #Chamis.cpp - Property and strength estimation using Chamis' model
+#Coefficients of thermal expansion (CTE) of laminates
